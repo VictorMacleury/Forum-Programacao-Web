@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(121, 97, 255);
+}
+
+.col{
+    background: white;
+    border-radius: 1pc;
+}
